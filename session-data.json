@@ -3,7 +3,7 @@
     {
       "domain": "russia.blsspainglobal.com",
       "name": ".AspNetCore.Antiforgery.wDtaHtfMkGY",
-      "value": "НОВОЕ_ЗНАЧЕНИЕ",
+      "value": "CfDJ8FJkEUwVq...",
       "path": "/",
       "secure": true,
       "httpOnly": true
@@ -11,11 +11,11 @@
     {
       "domain": "russia.blsspainglobal.com",
       "name": ".AspNetCore.Cookies",
-      "value": "НОВОЕ_ЗНАЧЕНИЕ",
+      "value": "CfDJ8FJkEUwVq...",
       "path": "/",
       "secure": true,
       "httpOnly": true
     }
   ],
-  "session_url": "НОВЫЙ_URL"
+  "session_url": "https://russia.blsspainglobal.com/Global/Appointment/Liveness?data=..."
 }

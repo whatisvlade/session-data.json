@@ -1,0 +1,21 @@
+{
+  "cookies": [
+    {
+      "domain": "russia.blsspainglobal.com",
+      "name": ".AspNetCore.Antiforgery.wDtaHtfMkGY",
+      "value": "НОВОЕ_ЗНАЧЕНИЕ",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true
+    },
+    {
+      "domain": "russia.blsspainglobal.com",
+      "name": ".AspNetCore.Cookies",
+      "value": "НОВОЕ_ЗНАЧЕНИЕ",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true
+    }
+  ],
+  "session_url": "НОВЫЙ_URL"
+}
